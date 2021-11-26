@@ -1,5 +1,6 @@
 # textrecog
 
+### Download APK [here](https://drive.google.com/file/d/1v6GQ0JcLW9LolIepdiye07-TTrgSbkD5/view?usp=sharing)
 This project Links labels to URL, you can scan the lable from camera and open the URL in browser
 I have used sql as database, and I have also added a QR code scanner 
 
