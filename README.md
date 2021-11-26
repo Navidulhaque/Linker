@@ -1,4 +1,4 @@
-# textrecog
+# Linker
 
 ### Download APK [here](https://drive.google.com/file/d/1v6GQ0JcLW9LolIepdiye07-TTrgSbkD5/view?usp=sharing)
 ## This project Links labels to URL
